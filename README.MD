@@ -4,4 +4,4 @@ setup Mongo Atlas db with Heroku connection string
 create service-worker.js
 create manifest.webmanifest.
 Git Repo: https://github.com/ptantsidis/budgetTracker.git
-Heroku Deploy:
+Heroku Deploy: https://git.heroku.com/serene-castle-59562.git'
