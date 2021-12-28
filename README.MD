@@ -11,7 +11,7 @@ ____
 
   *[Usage](#usage)
   
-  *[Test](#test)
+  *[Start](#start)
 
   *[Contributions](#contributions)
 
@@ -22,6 +22,8 @@ ____
   *[GitHub Nane](#githubname)
 
   *[GitHubRepo](#githubrepo)
+
+  *[HerokuDeploy](#herokudeploy)
 
   *[Images](#images)
 ____  
@@ -41,7 +43,6 @@ ____
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   (https://opensource.org/licenses/MIT)
   No
-
    
   ### GitHub Name
   https://github.com/ptantsidis
@@ -49,7 +50,7 @@ ____
   ### GitHub Repo
   https://github.com/ptantsidis/budgetTracker.git
 
-  ### Heroku Deply 
+  ### Heroku Deploy 
   https://git.heroku.com/serene-castle-59562.git'
 
   ### Images  
